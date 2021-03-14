@@ -10,6 +10,7 @@ install one.  The following clients are currently available:
 - [Mainsail](https://github.com/meteyou/mainsail) by Meteyou
 - [Fluidd](https://github.com/cadriel/fluidd) by Cadriel
 - [KlipperScreen](https://github.com/jordanruthe/KlipperScreen) by jordanruthe
+- [openHAB binding](https://github.com/arjanmels/openhab2-addons/releases/tag/v1.0.0) by Arjan Mels
 
 ### Changes
 
